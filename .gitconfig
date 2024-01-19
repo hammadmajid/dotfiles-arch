@@ -8,3 +8,5 @@
 	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPRtTqNrM5BMuNYBctad0rWPc6ExLGpIh+qyoHvJ+vm5
 	email = hammadmajid@proton.me
 	name = Hammad Majid
+[init]
+	defaultBranch = master
